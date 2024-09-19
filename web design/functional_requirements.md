@@ -12,4 +12,6 @@
 - Search: the system must allow display products searched by user and display searched history
 - Order status: the system must allow user can set the status of order received, cancelled and processed
 - Comment: the system must allow user can reply to comments from buyer
-- profil: the system must allow user can update the user profile.
+- profile: the system must allow user can update the user profile.
+- sales: the system must allow display product sales data.
+- history: the system must allow display product sales history.
